@@ -1,0 +1,21 @@
+{
+    "name": "serhat-erdem-nodejs",
+    "version": "1.0.0",
+    "description": "node-js add package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serhat": "echo 'say hi! Serhat'",
+        "start": "node index.js"
+    },
+    "author": "Serhat Erdem",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^5.10.6",
+        "nodemailer": "^6.4.11",
+        "simple-is": "^0.2.0"
+    },
+    "devDependencies": {
+        "webpack-cli": "^3.3.12"
+    }
+}
