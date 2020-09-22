@@ -1,0 +1,27 @@
+{
+  "name": "nodejsexamples",
+  "version": "1.0.0",
+  "description": "node-examples",
+  "main": "npm-examples",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sere27/nodejs-examples.git"
+  },
+  "keywords": [
+    "npm",
+    "and",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sere27/nodejs-examples/issues"
+  },
+  "homepage": "https://github.com/Sere27/nodejs-examples#readme",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  }
+}
